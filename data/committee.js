@@ -57,7 +57,7 @@ window.POLMETH_COMMITTEE = [
   {
     name: "Professor Asya Magazinnik",
     role: "",
-    affiliation: "Hertie School of Government",
+    affiliation: "Hertie School",
     photo: "./assets/img/am.jpg",
     website: "https://www.asyamagazinnik.com/"
   },

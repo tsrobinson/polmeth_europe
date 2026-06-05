@@ -75,4 +75,11 @@ window.POLMETH_COMMITTEE = [
     photo: "./assets/img/sk.jpg",
     website: "https://www.qmul.ac.uk/politics/staff/profiles/skoehler.html"
   },
+  {
+    name: "Dr Ashrakat Elshehawy",
+    role: "",
+    affiliation: "University College London",
+    photo: "./assets/img/ae.jpg",
+    website: "https://ashrakatelshehawy.com/"
+  },
 ];
